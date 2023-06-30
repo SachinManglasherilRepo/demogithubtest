@@ -8,7 +8,7 @@ jenkin_greetings = function(req,res){
 };
 
 test = function(req,res){
-    res.json({status:200, success:true, message: 'Welcome to test Server'});
+    res.json({status:200, success:true, message: 'Welcome to test Sachin Server'});
 };
 module.exports = {
     greetings,
